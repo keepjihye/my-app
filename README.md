@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Keepjihye의 React 예습 공부 Git입니다
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
